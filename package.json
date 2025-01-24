@@ -1,0 +1,24 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "Converts temperatures between Fahrenheit and Celsius.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkshakebraveheart/temperature-converter.git"
+  },
+  "keywords": [
+    "temperature",
+    "converter",
+    "utility"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkshakebraveheart/temperature-converter/issues"
+  },
+  "homepage": "https://github.com/milkshakebraveheart/temperature-converter#readme"
+}
